@@ -22548,8 +22548,8 @@
   <anime anidbid="8085" tvdbid="132961" defaulttvdbseason="0" episodeoffset="" tmdbtv="56343" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Baka to Test to Shoukanjuu: Matsuri</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-34;2-33;3-32;4-31;5-0;6-0;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-9;2-10;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-14;2-13;3-12;4-11;5-0;6-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-8;2-9;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8086" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="116299" imdbid="tt1740684">
@@ -22988,9 +22988,7 @@
   <anime anidbid="8235" tvdbid="132961" defaulttvdbseason="2" episodeoffset="" tmdbtv="56343" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Baka to Test to Shoukanjuu Ni!</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;16-20;</mapping>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="9" offset="10"/>
-      <mapping anidbseason="0" tvdbseason="0" start="10" end="15" offset="11"/>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="6" offset="14">;7-0;8-23;9-0;10-0;11-0;12-0;13-0;14-0;15-0;16-0;17-24;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8236" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -28892,9 +28890,7 @@
   <anime anidbid="10399" tvdbid="280330" defaulttvdbseason="1" episodeoffset="" tmdbtv="65332" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Amagi Brilliant Park</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-13;</mapping>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="1" offset="7"/>
-      <mapping anidbseason="0" tvdbseason="0" start="2" end="8" offset="-1"/>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="8" offset="-1">;1-8;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10400" tvdbid="277464" defaulttvdbseason="1" episodeoffset="" tmdbtv="60811" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -30145,8 +30141,7 @@
   <anime anidbid="10889" tvdbid="289884" defaulttvdbseason="1" episodeoffset="" tmdbtv="62564" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Hibike! Euphonium</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-8;</mapping>
-      <mapping anidbseason="0" tvdbseason="0" start="2" end="8" offset="-1"/>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="8" offset="-1">;1-8;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10890" tvdbid="250088" defaulttvdbseason="0" episodeoffset="" tmdbtv="45305" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
@@ -31428,8 +31423,7 @@
   <anime anidbid="11347" tvdbid="300989" defaulttvdbseason="1" episodeoffset="" tmdbtv="71785" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Osomatsu-san</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;2-0;</mapping>
-      <mapping anidbseason="0" tvdbseason="0" start="3" end="10" offset="-1"/>
+      <mapping anidbseason="0" tvdbseason="0" start="3" end="10" offset="-1">;2-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="11348" tvdbid="295205" defaulttvdbseason="1" episodeoffset="12" tmdbtv="63087" tmdbseason="1" tmdboffset="12" tmdbid="" imdbid="">
@@ -31504,8 +31498,7 @@
   <anime anidbid="11370" tvdbid="305089" defaulttvdbseason="1" episodeoffset="" tmdbtv="65942" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Re:Zero kara Hajimeru Isekai Seikatsu</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
-      <mapping anidbseason="0" tvdbseason="0" start="2" end="26" offset="-1"/>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="26" offset="-1">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="11371" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -31769,8 +31762,7 @@
   <anime anidbid="11469" tvdbid="300816" defaulttvdbseason="1" episodeoffset="" tmdbtv="65934" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Flying Witch</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;10-6;</mapping>
-      <mapping anidbseason="0" tvdbseason="0" start="6" end="8" offset="1"/>
+      <mapping anidbseason="0" tvdbseason="0" start="6" end="8" offset="1">;10-6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="11470" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -34960,8 +34952,7 @@
   <anime anidbid="12665" tvdbid="331753" defaulttvdbseason="1" episodeoffset="" tmdbtv="73223" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Black Clover (2017)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
-      <mapping anidbseason="0" tvdbseason="0" start="2" end="16" offset="9"/>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="16" offset="9">;1-2;</mapping>
       <mapping anidbseason="0" tmdbseason="0">;1-2;2-0;</mapping>
     </mapping-list>
   </anime>
@@ -43452,8 +43443,7 @@
   <anime anidbid="15660" tvdbid="398106" defaulttvdbseason="1" episodeoffset="" tmdbtv="106611" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Yakunara Mug Cup mo</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
-      <mapping anidbseason="0" tvdbseason="0" start="2" end="13" offset="-1"/>
+      <mapping anidbseason="0" tvdbseason="0">;14-0;15-0;16-0;17-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="15661" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -45362,7 +45352,7 @@
   <anime anidbid="16390" tvdbid="398106" defaulttvdbseason="2" episodeoffset="" tmdbtv="106611" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Yakunara Mug Cup mo Nibangama</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="12" offset="12"/>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="13" offset="13"/>
     </mapping-list>
   </anime>
   <anime anidbid="16391" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
